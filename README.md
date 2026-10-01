@@ -4,7 +4,7 @@ Interactive browser soundboard demo from Amienigma Studios.
 
 **Atlanta subs · Memphis stabs**
 
-**Live:** TODO — add Vercel URL after deploy
+**Live:** [demo-soundboard.vercel.app](https://demo-soundboard.vercel.app)
 
 Playable synth rack with Atlanta 808 subs, Memphis horrorcore chords, waveform, filter, and envelope.
 
